@@ -1,6 +1,8 @@
-# Türkçe Kelime Veritabanı
+# WordCreatorLLM - Türkçe Kelime Veritabanı
 
-Türkçe kelimeleri otomatik olarak işleyerek anlamlarını, örnek cümlelerini, kategorilerini ve zorluk seviyelerini OpenRouter API üzerinden LLM yardımıyla elde eden ve SQLite veritabanında saklayan bir Node.js/TypeScript uygulaması.
+Bu uygulama ile herhangi bir API bağlanarak kelime yaratması sağlanabilir.
+Uygulama Tamamen Cursor ve Claude 3.7 ile kodlanmıştır.
+Ollama ve API desteği yer alır kendiniz modelleri ve API keyleri değiştirerek kullanabilirsiniz.
 
 ## Proje Hakkında
 
