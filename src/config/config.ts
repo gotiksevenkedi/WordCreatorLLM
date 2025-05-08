@@ -5,9 +5,9 @@ import { AppConfig } from '../models/types';
 dotenv.config();
 
 // Groq API ortam değişkenleri
-const GROQ_API_KEY = process.env.GROQ_API_KEY || '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';
-const GROQ_API_URL = process.env.GROQ_API_URL || 'https://api.groq.com/openai/v1/chat/completions';
-const GROQ_MODEL_NAME = process.env.GROQ_MODEL_NAME || 'meta-llama/llama-4-scout-17b-16e-instruct';
+const GROQ_API_KEY = process.env.GROQ_API_KEY || 'insert here';
+const GROQ_API_URL = process.env.GROQ_API_URL || 'insert here';
+const GROQ_MODEL_NAME = process.env.GROQ_MODEL_NAME || '';
 
 // Ollama ortam değişkenleri (eski)
 const OLLAMA_MODEL_NAME = process.env.OLLAMA_MODEL_NAME;
