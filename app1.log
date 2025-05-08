@@ -11283,3 +11283,316 @@
 {"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:50"}
 {"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:50"}
 {"level":"info","message":"[1746702110015] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:50"}
+{"level":"info","message":"[1746702113644] Groq API yanıtı alındı. Süre: 3629ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Yeni kelime \"Tasvir\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Yeni kelime \"Somatik\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:53"}
+{"level":"info","message":"Mevcut kelime sayısı: 471. Kalan: 4529","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:54"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:54"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:54"}
+{"level":"info","message":"[1746702114149] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:54"}
+{"level":"info","message":"[1746702117561] Groq API yanıtı alındı. Süre: 3412ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"3 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Kelime \"Monolog\" kategorisi (\"Tiyatro\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Kelime \"Bifurksiyon\" kategorisi (\"Matematik\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Yeni kelime \"Pataloji\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:57"}
+{"level":"info","message":"Mevcut kelime sayısı: 472. Kalan: 4528","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:58"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:58"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:58"}
+{"level":"info","message":"[1746702118066] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:01:58"}
+{"level":"info","message":"[1746702120495] Groq API yanıtı alındı. Süre: 2429ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Yeni kelime \"Koksidya\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Kelime \"Prizma\" kategorisi (\"Fizik\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Mevcut kelime sayısı: 473. Kalan: 4527","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"[1746702120999] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:00"}
+{"level":"info","message":"[1746702125466] Groq API yanıtı alındı. Süre: 4467ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Mevcut kelime sayısı: 473. Kalan: 4527","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"[1746702125970] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:05"}
+{"level":"info","message":"[1746702128511] Groq API yanıtı alındı. Süre: 2541ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"3 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Kelime \"İntrovert\" kategorisi (\"Psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Yeni kelime \"Hilye\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Yeni kelime \"Pigment\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:08"}
+{"level":"info","message":"Mevcut kelime sayısı: 475. Kalan: 4525","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:09"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:09"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:09"}
+{"level":"info","message":"[1746702129016] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:09"}
+{"level":"info","message":"[1746702131402] Groq API yanıtı alındı. Süre: 2386ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Önbelleğe 7 yeni kelime eklendi. Toplam önbellek boyutu: 57","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 7 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Yeni kelime \"Cedel\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Mevcut kelime sayısı: 476. Kalan: 4524","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"[1746702131906] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:11"}
+{"level":"info","message":"[1746702134264] Groq API yanıtı alındı. Süre: 2358ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Önbelleğe 7 yeni kelime eklendi. Toplam önbellek boyutu: 57","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 7 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Kelime \"Meşruiyet\" kategorisi (\"Hukuk\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Mevcut kelime sayısı: 476. Kalan: 4524","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"[1746702134766] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:14"}
+{"level":"info","message":"[1746702137133] Groq API yanıtı alındı. Süre: 2367ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Önbelleğe 7 yeni kelime eklendi. Toplam önbellek boyutu: 57","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 7 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Yeni kelime \"Riyakâr\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Mevcut kelime sayısı: 477. Kalan: 4523","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"info","message":"[1746702137636] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:17"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:20"}
+{"level":"info","message":"Önbelleğe 10 yeni kelime eklendi. Toplam önbellek boyutu: 60","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:20"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 10 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:20"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:20"}
+{"level":"info","message":"Mevcut kelime sayısı: 477. Kalan: 4523","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:21"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:21"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:21"}
+{"level":"info","message":"[1746702141431] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:21"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"Mevcut kelime sayısı: 477. Kalan: 4523","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"[1746702146752] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:26"}
+{"level":"info","message":"[1746702149419] Groq API yanıtı alındı. Süre: 2667ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Önbelleğe 7 yeni kelime eklendi. Toplam önbellek boyutu: 57","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 7 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Kelime \"Gurur\" kategorisi (\"sosyal psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Yeni kelime \"Kronaksiya\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"info","message":"[1746702149923] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:29"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"info","message":"[1746702152739] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:32"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:33"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:33"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:33"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"[1746702154294] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"info","message":"[1746702154978] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:34"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"info","message":"[1746702155624] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:35"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:37"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:37"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:37"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:38"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:38"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:38"}
+{"level":"info","message":"[1746702158013] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:38"}
+{"level":"info","message":"[1746702161400] Groq API yanıtı alındı. Süre: 3387ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Önbelleğe 6 yeni kelime eklendi. Toplam önbellek boyutu: 56","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 6 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Mevcut kelime sayısı: 478. Kalan: 4522","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"[1746702161902] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:41"}
+{"level":"info","message":"[1746702164680] Groq API yanıtı alındı. Süre: 2778ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Önbelleğe 9 yeni kelime eklendi. Toplam önbellek boyutu: 59","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 9 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Kelime \"Mülâhaza\" kategorisi (\"Bilim\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Yeni kelime \"Siyânet\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:44"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"[1746702165185] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"error","message":"Tercih edilen API ile kelimeler alma başarısız: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle","service":"turkce-kelime-database","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at Printf.template (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/src/utils/logger.ts:23:89)\n    at Printf.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/printf.js:11:26)\n    at Format.transform (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/logform/combine.js:20:24)\n    at Console._write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/winston-transport/modern.js:91:33)\n    at doWrite (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/Users/emreavci/Desktop/app/Database/turkce-kelime-database/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:530:35)","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"Önbelleğe 0 yeni kelime eklendi. Toplam önbellek boyutu: 50","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:45"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:46"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:46"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:46"}
+{"level":"info","message":"[1746702166416] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:46"}
+{"level":"info","message":"[1746702169489] Groq API yanıtı alındı. Süre: 3073ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Kelime \"İntrospeksiyon\" kategorisi (\"psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"[1746702169993] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:49"}
+{"level":"info","message":"[1746702173175] Groq API yanıtı alındı. Süre: 3182ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Kelime \"Meveddet\" kategorisi (\"Sosyal\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"[1746702173678] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:53"}
+{"level":"info","message":"[1746702176555] Groq API yanıtı alındı. Süre: 2877ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Önbelleğe 9 yeni kelime eklendi. Toplam önbellek boyutu: 59","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 9 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"3 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Kelime \"Müsel\" kategorisi (\"Meteoroloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Kelime \"Fırka\" kategorisi (\"Sosyoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Kelime \"Cühel\" kategorisi (\"Sosyoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:56"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:57"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:57"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:57"}
+{"level":"info","message":"[1746702177057] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:02:57"}
+{"level":"info","message":"[1746702180241] Groq API yanıtı alındı. Süre: 3184ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Kelime \"Sessiz sedasız\" kategorisi (\"dilişbilim\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Kelime \"Bîmâr\" kategorisi (\"psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"[1746702180745] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:00"}
+{"level":"info","message":"[1746702184952] Groq API yanıtı alındı. Süre: 4207ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"Önbelleğe 6 yeni kelime eklendi. Toplam önbellek boyutu: 56","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 6 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"Kelime \"Kıtırtı\" kategorisi (\"psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:04"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:05"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:05"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:05"}
+{"level":"info","message":"[1746702185454] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:05"}
+{"level":"info","message":"[1746702188234] Groq API yanıtı alındı. Süre: 2780ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Önbelleğe 9 yeni kelime eklendi. Toplam önbellek boyutu: 59","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 9 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Kelime \"Sûk\" kategorisi (\"Ekonomi\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Kelime \"Tâk\" kategorisi (\"Mimarlık\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"[1746702188736] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:08"}
+{"level":"info","message":"[1746702191097] Groq API yanıtı alındı. Süre: 2361ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Önbelleğe 6 yeni kelime eklendi. Toplam önbellek boyutu: 56","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 6 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"0 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"[1746702191599] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:11"}
+{"level":"info","message":"[1746702194066] Groq API yanıtı alındı. Süre: 2467ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Kelime \"Sarf\" kategorisi (\"Ekonomi\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Mevcut kelime sayısı: 479. Kalan: 4521","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"[1746702194570] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:14"}
+{"level":"info","message":"[1746702196830] Groq API yanıtı alındı. Süre: 2260ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Önbelleğe 9 yeni kelime eklendi. Toplam önbellek boyutu: 59","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 9 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"5 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Yeni kelime \"İstibrâ\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Kelime \"Skontral\" kategorisi (\"Eğitim\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Yeni kelime \"Nimülozis\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Yeni kelime \"Münâsebet\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Kelime \"İnhibisyon\" kategorisi (\"Kimya\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:16"}
+{"level":"info","message":"Mevcut kelime sayısı: 482. Kalan: 4518","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:17"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:17"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:17"}
+{"level":"info","message":"[1746702197336] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:17"}
+{"level":"info","message":"[1746702199723] Groq API yanıtı alındı. Süre: 2387ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Önbelleğe 9 yeni kelime eklendi. Toplam önbellek boyutu: 59","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 9 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Kelime \"Piramidal\" kategorisi (\"Mimarlık\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Yeni kelime \"Felsefik\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:19"}
+{"level":"info","message":"Mevcut kelime sayısı: 483. Kalan: 4517","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:20"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:20"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:20"}
+{"level":"info","message":"[1746702200227] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:20"}
+{"level":"info","message":"[1746702204362] Groq API yanıtı alındı. Süre: 4135ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Yeni kelime \"Müsamaha\" veritabanına ekleniyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Kelime \"İnşiyak\" kategorisi (\"Psikoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Mevcut kelime sayısı: 484. Kalan: 4516","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"[1746702204866] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:24"}
+{"level":"info","message":"[1746702210401] Groq API yanıtı alındı. Süre: 5535ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Önbelleğe 7 yeni kelime eklendi. Toplam önbellek boyutu: 57","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 7 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"1 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Kelime \"Diyapazon\" kategorisi (\"Fizik\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Mevcut kelime sayısı: 484. Kalan: 4516","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"[1746702210903] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:30"}
+{"level":"info","message":"[1746702214043] Groq API yanıtı alındı. Süre: 3140ms","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Groq API'den 10 kelime başarıyla alındı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Önbelleğe 8 yeni kelime eklendi. Toplam önbellek boyutu: 58","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Önbellek boyutu sınırlandırıldı. 8 eski kelime kaldırıldı.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"2 benzersiz kelime seçildi ve döndürülüyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Kelime \"Vestiyer\" kategorisi (\"Mimarlık\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Kelime \"Zürafa\" kategorisi (\"Biyoloji\") kabul edilenler arasında değil, eklenmeyecek.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Mevcut kelime sayısı: 484. Kalan: 4516","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Önbellekte yeterli kullanılmamış kelime yok. API'den yeni kelimeler alınıyor.","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"Groq API isteği hazırlanıyor...","model":"meta-llama/llama-4-scout-17b-16e-instruct","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
+{"level":"info","message":"[1746702214552] Groq API isteği gönderiliyor...","service":"turkce-kelime-database","timestamp":"2025-05-08 14:03:34"}
