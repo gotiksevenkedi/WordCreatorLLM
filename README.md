@@ -1,9 +1,9 @@
 # WordCreatorLLM - Türkçe Kelime Veritabanı
 
 Bu uygulama ile herhangi bir API bağlanarak kelime yaratması sağlanabilir.
-Uygulama Tamamen Cursor ve Claude 3.7 ile kodlanmıştır.
+Uygulama Tamamen Cursor ile kodlanmıştır.
 Ollama ve API desteği yer alır kendiniz modelleri ve API keyleri değiştirerek kullanabilirsiniz.
-
+Config.ts ve .env dosyaları üzerinde değişiklik yaparak uygulamaya kendi API bilgilerinizi girebilirsiniz.
 ## Proje Hakkında
 
 Bu uygulama, "kelimeler" dizininde A'dan Z'ye sıralanmış .txt dosyalarındaki Türkçe kelimeleri okur, her kelime için OpenRouter API üzerinden Mistral gibi gelişmiş LLM modellerini kullanarak detaylı bilgiler alır ve bu bilgileri yapılandırılmış bir SQLite veritabanında saklar.
